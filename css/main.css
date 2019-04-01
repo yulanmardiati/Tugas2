@@ -1,0 +1,34 @@
+body,html{
+    height: 100%;
+    margin:0 auto;
+}   
+.section1{
+    background: url(../img/maxresdefault.jpg);
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.judul{
+    font-family: ALISEO;
+    font-size: 40px;
+    color:#FFD700;
+    }
+.section2{
+    padding:100px 100px;
+    background:#F0FFFF;
+}
+
+ 
+.col-kiri{
+    background:#00FF7F;
+    
+}
+.col-kanan{
+    background:#191970;
+    
+}
+.section3{
+    padding:100px 100px;
+    background:#F5F5F5;
+}    
+        
