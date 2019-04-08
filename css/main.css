@@ -9,8 +9,8 @@ body,html{
     text-align: center;
 }
 .judul{
-    font-family: ALISEO;
-    font-size: 40px;
+    font-family: sans-serif;
+    font-size: 60px;
     color:#FFD700;
     }
 .section2{
@@ -20,8 +20,7 @@ body,html{
 
  
 .col-kiri{
-    background:#00FF7F;
-    
+    background:#FFEBCD;
 }
 .col-kanan{
     background:#191970;
@@ -31,4 +30,16 @@ body,html{
     padding:100px 100px;
     background:#F5F5F5;
 }    
-        
+section3{
+    min-height: 300px;
+    padding: 50px 0px;
+    background: blue;
+}       
+.link{
+    padding: 10px 15px;
+    color:#556B2F
+}
+.link :hover{
+    background: line;
+    
+}
